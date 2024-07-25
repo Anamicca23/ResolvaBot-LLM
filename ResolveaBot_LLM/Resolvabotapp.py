@@ -95,7 +95,7 @@ def get_answer_from_wikipedia(query):
     # Create a custom HTTP session
     session = requests.Session()
     session.headers.update({
-        'User-Agent': 'Googlechrome/1.0 (www.google.com)'  # Replace with your app name and contact
+        'User-Agent': 'Resolvabotapp/1.0 (your.email@example.com)'  # Replace with your app name and contact
     })
 
     # Initialize Wikipedia with the custom session
