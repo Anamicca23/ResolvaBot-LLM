@@ -1,6 +1,7 @@
 # ResolvaBot-LLM - A User Query Resolving Bot for Textbooks.
 A sophisticated platform leveraging advanced large language models (LLMs) for the dynamic resolution of user queries, utilizing state-of-the-art natural language processing (NLP) and machine learning algorithms to facilitate context-aware and precise information retrieval and problem-solving.
 
+<img src="https://ytimg.googleusercontent.com/vi/vmw3Nz1pMPM/maxresdefault.jpg" width="100%" />
 
 ## Objective
 
