@@ -73,7 +73,7 @@ The goal of this project is to create a comprehensive system for extracting cont
 
 ### streamlit interface:
 
-![resolva bot llm](https://github.com/user-attachments/assets/c4f8aa6c-a607-4558-8b0c-72b806180d52)
+![resolvabot llm ](https://github.com/user-attachments/assets/587d9dc5-31a9-4860-bbed-ff2e890323ce)
 
 
 ## Installation and Setup
