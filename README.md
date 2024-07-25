@@ -118,15 +118,15 @@ OPENAI_API_KEY=your_openai_api_key
 1. Run the script to create the index from the textbooks:
 
 ```bash
-python create_index.py
+python Raptor indexing.py
 ```
 
 ### Run the Application
 
-1. Start the Streamlit app or Gradio interface:
-
+1. Start the Streamlit app interface:
+  - make sure you replace path of directory or files.
 ```bash
-streamlit run app.py
+streamlit run Resolvabotapp.py
 ```
 
 ## Usage
