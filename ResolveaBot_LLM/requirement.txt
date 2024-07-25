@@ -1,0 +1,40 @@
+# Textbook Retrieval and Question Answering System Dependencies
+
+# Core Libraries
+numpy==1.24.1
+pandas==2.0.3
+
+# PDF Extraction
+PyPDF2==1.28.1
+
+# Text Processing
+nltk==3.8.1
+wordnet==1.0
+transformers==4.33.0
+sentence-transformers==2.2.2
+
+# Data Chunking
+nltk==3.8.1
+
+# Database and Indexing
+milvus==2.1.0
+whoosh==2.7.4
+
+# Retrieval Techniques
+pyserini==0.17.0
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Natural Language Processing
+openai==0.27.0
+
+# Wikipedia API
+wikipedia-api==0.5.4
+
+# Web Interface
+streamlit==1.20.0
+gradio==3.5.0
+
+# Environment Management
+python-dotenv==1.0.0
