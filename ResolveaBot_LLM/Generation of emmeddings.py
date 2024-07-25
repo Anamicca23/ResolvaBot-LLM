@@ -10,10 +10,10 @@ def generate_embeddings(chunks, model_name='paraphrase-MiniLM-L6-v2'):
 
 if __name__ == "__main__":
     for i in range(1, 4):
-        with open(f"E:/TEXT_EXTRACTION_LLM/data/chunks_textbook{i}.txt", 'r', encoding='utf-8') as file:
+        with open(f"D:/youtube downloads/3textbook/chunks_textbook{i}.txt", 'r', encoding='utf-8') as file:
             chunks = [line.strip() for line in file.readlines()]
             embeddings = generate_embeddings(chunks)
-            with open(f"E:/TEXT_EXTRACTION_LLM/data/embeddings_textbook{i}.pkl", 'wb') as f:
+            with open(f"D:/youtube downloads/3textbook/embeddings_textbook{i}.pkl", 'wb') as f:
                 pickle.dump(embeddings, f)
 
 

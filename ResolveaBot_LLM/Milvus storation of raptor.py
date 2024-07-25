@@ -61,10 +61,10 @@ if __name__ == "__main__":
     collection = create_milvus_collection(collection_name, embedding_dim)
 
     # Load your embeddings and text chunks
-    with open(f"E:/TEXT_EXTRACTION_LLM/data/embeddings_textbook1.pkl", 'rb') as f:
+    with open(f"D:/youtube downloads/3textbook/embeddings_textbook1.pkl", 'rb') as f:
         embeddings = pickle.load(f)
 
-    with open(f"E:/TEXT_EXTRACTION_LLM/data/chunks_textbook1.txt", 'r', encoding='utf-8') as f:
+    with open(f"D:/youtube downloads/3textbook/chunks_textbook1.txt", 'r', encoding='utf-8') as f:
         texts = [line.strip() for line in f.readlines()]
 
     # Debug: Print lengths
