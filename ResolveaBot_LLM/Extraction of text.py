@@ -16,7 +16,7 @@ def extract_text_from_pdf(pdf_path):
 
 if __name__ == "__main__":
     # Define the base path
-    base_path = "D:/youtube downloads/steps_AI_LLM_project-main/3textbook/"
+    base_path = "D:/youtube downloads/3textbook/"
     
     # Extract text from PDF files and save to .txt files
     for i in range(1, 4):
