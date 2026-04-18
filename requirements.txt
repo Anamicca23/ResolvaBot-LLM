@@ -1,5 +1,3 @@
-# ResolvaBot LLM - Complete Dependencies
-
 # Core
 numpy>=1.24.0
 pandas>=2.0.0
@@ -14,15 +12,16 @@ nltk>=3.8.1
 
 # Embeddings & ML
 sentence-transformers>=2.2.2
-torch>=2.0.0
+torch>=2.0.0 --index-url https://download.pytorch.org/whl/cpu
 scikit-learn>=1.3.0
 faiss-cpu>=1.7.4
 
 # BM25 / Keyword Index
 whoosh>=2.7.4
 
-# OpenAI LLM (modern SDK)
+# LLM SDKs
 openai>=1.0.0
+groq>=0.1.0
 
 # Wikipedia Fallback
 wikipedia-api>=0.6.0
