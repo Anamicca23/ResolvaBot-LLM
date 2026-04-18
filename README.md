@@ -1,12 +1,3 @@
----
-title: ResolvaBot-LLM
-emoji: 🤖
-colorFrom: purple
-colorTo: blue
-sdk: streamlit
-app_file: app.py
-pinned: false
----
 <div align="center">
 
 <br/>
@@ -76,6 +67,7 @@ and complexity analysis in every answer.
 
 ResolvaBot LLM is a **desktop-first, locally-hosted AI study assistant** that transforms any PDF textbook into a fully searchable, intelligent Q&A knowledge base. It combines cutting-edge retrieval techniques with large language models to deliver structured, cited, code-inclusive answers — just like having a senior tutor available 24/7.
 
+
 **Who is it built for?**
 
 | Audience | Use Case |
@@ -86,6 +78,8 @@ ResolvaBot LLM is a **desktop-first, locally-hosted AI study assistant** that tr
 | 💻 **Developers** | Understand codebases by uploading technical documentation |
 
 <br/>
+
+<img width="1360" height="624" alt="image" src="https://github.com/user-attachments/assets/b31eae86-2850-401a-860d-ab64d4cc4a73" />
 
 ---
 
@@ -751,7 +745,7 @@ Contributions, bug reports, and feature requests are very welcome!
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/ResolvaBot-LLM.git
+git clone https://github.com/Anamicca23/ResolvaBot-LLM.git
 cd ResolvaBot-LLM
 
 # 3. Create a feature branch
