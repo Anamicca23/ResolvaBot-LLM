@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img width="1376" height="768" alt="resolvabot llm" src="https://github.com/user-attachments/assets/b83ca1d8-9382-44e8-9538-e5d5a44ffea5" />
 
 <br/>
 
